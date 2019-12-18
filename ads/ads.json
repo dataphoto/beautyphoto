@@ -1,9 +1,9 @@
 {
   "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
   "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster.jpg", 
-  "appName" : "Light Spiral Photo Editor",
-  "shortDecripsion" : "The perfect choice to look super kawaii",
-  "package" : "beautyroom.light.spiral.photo.editor2",
+  "appName" : "Heart Crown Photo Editor",
+  "shortDecripsion" : "Look cute girl with hundred of heart crown effect",
+  "package" : "beautyroom.heart.crown.editor",
   "link" : "",
   "actionText" : "VISIT APP"
 }
