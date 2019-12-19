@@ -1,1 +1,219 @@
-[{"com.beauty.photo.editor.debuggg":{"am_ba":"IxON9QCsyZ17q4I8OcUkrjJE3nEmk/zlybta/KBYCk4iQ38eknBpWmRetHg92w9q","am_in":"IxON9QCsyZ17q4I8OcUkrnIIJ7FqRuhDs4WJEFRwJ8Bag06YXMs4ODzD8pAxAYUC","am_vi":"IxON9QCsyZ17q4I8OcUkrlWxpUiMUF5gcs4w5XPxLySJAC4mGsfXYeE88abC95rN"}},{"common":{"ads_app":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/ads.json","sticker_type":["Free","Premium"],"sticker":[{"name":"Highlights","type":"Free","is_new":"true","thumb":16},{"name":"Emoji Face","type":"Free","is_new":"true","thumb":28},{"name":"Makeup","type":"Free","is_new":"false","thumb":24},{"name":"Hairstyles","type":"Free","is_new":"false","thumb":16},{"name":"Accessories","type":"Free","is_new":"false","thumb":16},{"name":"Moon","type":"Free","is_new":"true","thumb":20},{"name":"Folk_Hats","type":"Free","is_new":"false","thumb":16},{"name":"Muscles","type":"Free","is_new":"false","thumb":16},{"name":"Shiny Bright","type":"Free","is_new":"true","thumb":16},{"name":"I Love You","type":"Free","is_new":"true","thumb":16},{"name":"Stylish Hats","type":"Free","is_new":"false","thumb":16},{"name":"Alphabe","type":"Free","is_new":"true","thumb":32},{"name":"Holi","type":"Free","is_new":"true","thumb":16},{"name":"Thanks Mom","type":"Free","is_new":"true","thumb":16},{"name":"Sparklers","type":"Free","is_new":"true","thumb":18},{"name":"Best Dad","type":"Free","is_new":"false","thumb":16},{"name":"Trendy Hairstyles","type":"Free","is_new":"false","thumb":16},{"name":"Rainbow","type":"Free","is_new":"true","thumb":18},{"name":"Mommy","type":"Free","is_new":"true","thumb":16}]}}]
+[
+  {
+    "com.beauty.photo.editor.debuggg": {
+      "am_ba": "IxON9QCsyZ17q4I8OcUkrjJE3nEmk/zlybta/KBYCk4iQ38eknBpWmRetHg92w9q",
+      "am_in": "IxON9QCsyZ17q4I8OcUkrnIIJ7FqRuhDs4WJEFRwJ8Bag06YXMs4ODzD8pAxAYUC",
+      "am_vi": "IxON9QCsyZ17q4I8OcUkrlWxpUiMUF5gcs4w5XPxLySJAC4mGsfXYeE88abC95rN"
+    }
+  },
+  {
+    "common": {
+      "ads_app": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/ads.json",
+      "sticker_type": [
+        "Free",
+        "Premium"
+      ],
+      "sticker": [
+        {
+          "name": "Highlights",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "icon": "",
+          "date": 1576749159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Highlights.io",
+          "price": -1
+        },
+        {
+          "name": "Emoji Face",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 28,
+          "icon": "",
+          "date": 1576748159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Emoji Face.io",
+          "price": -1
+        },
+        {
+          "name": "Makeup",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 24,
+          "icon": "",
+          "date": 1576747159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Makeup.io",
+          "price": -1
+        },
+        {
+          "name": "Hairstyles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "icon": "",
+          "date": 1576746159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Hairstyles.io",
+          "price": -1
+        },
+        {
+          "name": "Accessories",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "date": 1576745159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Accessories.io",
+          "price": -1
+        },
+        {
+          "name": "Moon",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 20,
+          "date": 1576744159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Moon.io",
+          "price": -1
+        },
+        {
+          "name": "Folk_Hats",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "date": 1576743159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Folk_Hats.io",
+          "price": -1
+        },
+        {
+          "name": "Muscles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "date": 1576742159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Muscles.io",
+          "price": -1
+        },
+        {
+          "name": "Shiny Bright",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "date": 1576741159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Shiny Bright.io",
+          "price": -1
+        },
+        {
+          "name": "I Love You",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "date": 1576739159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/I Love You.io",
+          "price": -1
+        },
+        {
+          "name": "Stylish Hats",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "date": 1576738159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Stylish Hats.io",
+          "price": -1
+        },
+        {
+          "name": "Alphabe",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 32,
+          "date": 1576737159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Alphabe.io",
+          "price": -1
+        },
+        {
+          "name": "Holi",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "date": 1576736159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Holi.io",
+          "price": -1
+        },
+        {
+          "name": "Thanks Mom",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "date": 1576735159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Thanks Mom.io",
+          "price": -1
+        },
+        {
+          "name": "Sparklers",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 18,
+          "date": 1576734159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Sparklers.io",
+          "price": -1
+        },
+        {
+          "name": "Best Dad",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "date": 1576733159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Best Dad.io",
+          "price": -1
+        },
+        {
+          "name": "Trendy Hairstyles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "date": 1576732159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Trendy Hairstyles.io",
+          "price": -1
+        },
+        {
+          "name": "Rainbow",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 18,
+          "date": 1576731159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Rainbow.io",
+          "price": -1
+        },
+        {
+          "name": "Mommy",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "date": 1576730159,
+          "keyword": "sticker",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Mommy.io",
+          "price": -1
+        }
+      ],
+      "configs": {
+        "sticker_cover_color": "null",
+        "sticker_background_demo_color": "null",
+        "home_list_size": 12
+      }
+    }
+  }
+]
