@@ -22,10 +22,11 @@
           "thumb": 16,
           "icon": "",
           "extension_demo":"png",
-          "bg_demo":"#DA797979",
-          "bg_cover":"#34000000",
+          "material_bg_demo_color":"#DA797979",
+          "material_bg_cover_color":"#34000000",
           "date": 1576749159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Highlights/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Highlights.io",
           "price": -1
         },
@@ -38,6 +39,7 @@
           "extension_demo":"png",
           "date": 1576748159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Emoji Face/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Emoji Face.io",
           "price": -1
         },
@@ -50,6 +52,7 @@
           "extension_demo":"png",
           "date": 1576747159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Makeup/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Makeup.io",
           "price": -1
         },
@@ -62,6 +65,7 @@
           "extension_demo":"png",
           "date": 1576746159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Hairstyles/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Hairstyles.io",
           "price": -1
         },
@@ -73,6 +77,7 @@
           "extension_demo":"png",
           "date": 1576745159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Accessories/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Accessories.io",
           "price": -1
         },
@@ -84,6 +89,7 @@
           "extension_demo":"png",
           "date": 1576744159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Moon/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Moon.io",
           "price": -1
         },
@@ -95,6 +101,7 @@
           "extension_demo":"png",
           "date": 1576743159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Folk_Hats/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Folk_Hats.io",
           "price": -1
         },
@@ -106,6 +113,7 @@
           "extension_demo":"png",
           "date": 1576742159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Muscles/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Muscles.io",
           "price": -1
         },
@@ -117,6 +125,7 @@
           "extension_demo":"png",
           "date": 1576741159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Shiny Bright/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Shiny Bright.io",
           "price": -1
         },
@@ -128,6 +137,7 @@
           "extension_demo":"png",
           "date": 1576739159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/I Love You/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/I Love You.io",
           "price": -1
         },
@@ -139,6 +149,7 @@
           "extension_demo":"png",
           "date": 1576738159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Stylish Hats/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Stylish Hats.io",
           "price": -1
         },
@@ -150,6 +161,7 @@
           "extension_demo":"png",
           "date": 1576737159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Alphabe/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Alphabe.io",
           "price": -1
         },
@@ -161,6 +173,7 @@
           "extension_demo":"png",
           "date": 1576736159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Holi/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Holi.io",
           "price": -1
         },
@@ -172,6 +185,7 @@
           "extension_demo":"png",
           "date": 1576735159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Thanks Mom/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Thanks Mom.io",
           "price": -1
         },
@@ -183,6 +197,7 @@
           "extension_demo":"png",
           "date": 1576734159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Sparklers/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Sparklers.io",
           "price": -1
         },
@@ -194,6 +209,7 @@
           "extension_demo":"png",
           "date": 1576733159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Best Dad/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Best Dad.io",
           "price": -1
         },
@@ -205,6 +221,7 @@
           "extension_demo":"png",
           "date": 1576732159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Trendy Hairstyles/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Trendy Hairstyles.io",
           "price": -1
         },
@@ -216,6 +233,7 @@
           "extension_demo":"png",
           "date": 1576731159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Rainbow/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Rainbow.io",
           "price": -1
         },
@@ -227,6 +245,7 @@
           "extension_demo":"png",
           "date": 1576730159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Mommy/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Mommy.io",
           "price": -1
         }
@@ -241,6 +260,7 @@
           "icon": "",
           "date": 1576849159,
           "keyword": "frame",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/f/Glitch Effect/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codef/Glitch Effect.io",
           "price": -1
         },{
@@ -250,10 +270,11 @@
           "thumb": 156,
           "extension_demo":"png",
           "icon": "",
-          "bg_demo":"#DA797979",
-          "bg_cover":"#34000000",
+          "material_bg_demo_color":"#DA797979",
+          "material_bg_cover_color":"#34000000",
           "date": 1576349159,
           "keyword": "sticker",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/f/3D Camera/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codef/3D Camera.io",
           "price": -1
         }
@@ -268,6 +289,7 @@
           "icon": "",
           "date": 1576749159,
           "keyword": "background",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/bg/3D Movie/cover.jpg",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codebg/3D Movie.io",
           "price": -1
         },{
@@ -277,10 +299,11 @@
           "thumb": 30,
           "extension_demo":"jpg",
           "icon": "",
-          "bg_demo":"#2196F3",
-          "bg_cover":"#342196F3",
+          "material_bg_demo_color":"#2196F3",
+          "material_bg_cover_color":"#342196F3",
           "date": 1573349159,
           "keyword": "background",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/bg/Smoke Effect/cover.jpg",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codebg/Smoke Effect.io",
           "price": -1
         }
