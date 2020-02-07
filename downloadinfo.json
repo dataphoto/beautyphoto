@@ -9,7 +9,6 @@
   },
   {
     "common": {
-      "ads_app": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/ads.json",
       "sticker_type": [
         "Free",
         "Premium"
@@ -332,9 +331,13 @@
         }
         ],
       "configs": {
-        "material_bg_cover_color": "null",
-        "material_bg_demo_color": "null",
-        "home_list_size": 12
+        "material_bg_cover_color": "",
+        "material_bg_demo_color": "",
+	"ads_app": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/ads.json",
+        "home_list_size": 12,
+	"first_ads_position_shop":1,
+	"loop_ads_position_shop":4,
+	"load_more_shop":20
       }
     }
   }
