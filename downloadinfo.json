@@ -9,7 +9,8 @@
   },
   {
     "common": {
-"ads_app": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/adsold.json",
+      "hide_ad_home":true,
+      "ads_app": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/adsold.json",
       "sticker_type": [
         "Free",
         "Premium"
