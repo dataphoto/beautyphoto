@@ -31,16 +31,16 @@
   },
 	{
     "heartcrown.photo.editor.live.face": {
-      "ads_list": ["fb"],
+      "ads_list": ["fb", "am"],
       "fb_ba": "lxPbZPdsQv9MiokuIImotBGWGLBNBRXxPJLjzFgajkA=",
       "fb_in": "lxPbZPdsQv9MiokuIImotBK9mD4RXoNlFDvVSfAlgCk=",
       "fb_re": "lxPbZPdsQv9MiokuIImotCqiRaOK0DENfSPGMvEHMFc=",
       "fb_na": "lxPbZPdsQv9MiokuIImotHvRZMGLG4kDtDgu2QNDpnI=",
 
-      "am_ba": "Rn0pSEgDeaQjcI0NNQY3Rd+a6VGDFloadJbc7XhbnbL2HN1S2I1GwIbmR8m+ZoDz",
-      "am_in": "Rn0pSEgDeaQjcI0NNQY3RcdnYyEK0oDmUEeJxjXIFy6n5kYALNGTGg7txpP+abDV",
-      "am_vi": "Rn0pSEgDeaQjcI0NNQY3RbcS14eixtTWv8SoaaBPDw73F75x4Wp6/YXJC4lC9XJk",
-      "am_na": "Rn0pSEgDeaQjcI0NNQY3RYD0IJLxmCcr4O9r6EuRS2f1S/G4qQvW5cCV1DGjvmlA"
+      "am_ba": "5HF7tw8jNSnq0pj9c70XEEkXrJRTZ/iiFV+nuy/43HZgqTjS/TxjVWwBcYyj6z4c",
+      "am_in": "5HF7tw8jNSnq0pj9c70XEP0MCqo0E0YYYhqSnz4vEnscwOquwfpQWm1mcg8sxKyU",
+      "am_vi": "",
+      "am_na": "5HF7tw8jNSnq0pj9c70XEGpAfk7dO/O9LdHuFAVAqGHWF08MTZze9Kgav5qdbAKi"
     }
   },
   {
