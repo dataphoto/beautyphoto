@@ -1,32 +1,32 @@
 [
 	{
     "beautyroom.angel.photo.editor": {
-      "ads_list": ["am"],
+      "ads_list": ["am1"],
 
-      "am_ba": "5HF7tw8jNSnq0pj9c70XEDzkTN6J3s+eCYB7yDabRksR3t4gcVOZq5UxCVWLm5li",
-      "am_in": "5HF7tw8jNSnq0pj9c70XEGj+zZxG+zmi2D9tCH0DWp+9vyA5mHg1e3bpfo4UAGTg",
+      "am_ba": "",
+      "am_in": "",
       "am_vi": "",
-      "am_na": "5HF7tw8jNSnq0pj9c70XELPCTu5L0ZJwUxcz5So6DsIW0D5DNyeGfEa9SOZkRy/L"
+      "am_na": ""
     }
   },
 	{
     "rainbow.camera.effect.photo.editor": {
-      "ads_list": ["am"],
+      "ads_list": ["am1"],
 
-      "am_ba": "Rn0pSEgDeaQjcI0NNQY3RXG6JvLNIGe5MRSft9jQ3bliXYQvDPsbnLH5TZvCCsdO",
-      "am_in": "Rn0pSEgDeaQjcI0NNQY3RbyIr2ZU8XkfcKjiYFm0TX210gV2aaRJQvhWPKWDCyTg",
+      "am_ba": "",
+      "am_in": "",
       "am_vi": "",
-      "am_na": "Rn0pSEgDeaQjcI0NNQY3Re+9y/s6+ET2W1ehOhyA7s1zXIWNk6+m2ms8Ml1nulgi"
+      "am_na": ""
     }
   },
 	{
     "beautyroom.easy.blur.photo.auto.background": {
-      "ads_list": ["am"],
+      "ads_list": ["am1"],
 
-      "am_ba": "Rn0pSEgDeaQjcI0NNQY3ReXOzzWzeCnqMtvY31cb5nfHObLskn1WgTwTsvGj5sIE",
-      "am_in": "Rn0pSEgDeaQjcI0NNQY3RTRDj8kmN6jDdEEOW9ZKE2oQ3FDzz9aT+6dwMVnPzFXO",
+      "am_ba": "",
+      "am_in": "",
       "am_vi": "",
-      "am_na": "Rn0pSEgDeaQjcI0NNQY3RYcHKrzJNdmhRpVCv81OuWz0HrpUl1V36Ml27DGn0C5P"
+      "am_na": ""
     }
   },
 	{
