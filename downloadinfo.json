@@ -88,7 +88,7 @@
   },
   {
     "common": {
-      "hide_ad_home":true,
+      "hide_ad_home":false,
       "ads_app": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/adsold.json",
       "sticker_type": [
         "Free",
