@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png",
-      "appName": "Face Emoji Photo Editor",
+      "appName": "Filters for Selfies",
       "description": "Smoothen your beauty in selfie pictures",
-      "package": "beauty.picshop.face.emoji.photo.editor",
+      "package": "sweet.snap.art.filters.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
