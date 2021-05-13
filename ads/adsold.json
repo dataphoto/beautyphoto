@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png", 
-  "appName" : "Face Emoji Photo Editor",
-  "shortDecripsion" : "Smoothen your beauty in selfie pictures",
-  "package" : "beauty.picshop.face.emoji.photo.editor",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png", 
+  "appName" : "Filters for Selfies",
+  "shortDecripsion" : "The new filters and effects. Get alot of filters like dogs, rabbit, wolf, lips, heart crown...",
+  "package" : "beautyrooom.filtersforselfie.sweet.face.camera.selfies",
   "link" : "",
   "actionText" : "VISIT APP"
 }
