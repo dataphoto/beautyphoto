@@ -1,7 +1,13 @@
 [
 	{
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
-      "ads_list": ["am"],
+      "ads_list": ["fb", "am"],
+
+      "fb_ba": "CnYPQ2njwDslT430CW9VIxE0dTbBusIlHMfiNWuyfiA=",
+      "fb_in": "CnYPQ2njwDslT430CW9VI73lcWwMeq/CXeEWUSXqkEg=",
+      "fb_home_in": "CnYPQ2njwDslT430CW9VI73lcWwMeq/CXeEWUSXqkEg=",
+      "fb_re": "CnYPQ2njwDslT430CW9VI7kMJqmDPPXBbhvHz5D5NdI=",
+      "fb_na": "CnYPQ2njwDslT430CW9VI7gsWnTTwL0TvmCSgNqzPqs=",
 
       "am_ba": "+so+zcxl13By1/KSMxAECZn4mPCPtSaY4Y2yYXn70DymPqrI//hh/Qhxmcx1m5/m",
       "am_in": "+so+zcxl13By1/KSMxAECcX5KuBpn5GI5XWjxM4K9L+o0nLgap6Ow+nSVS9D7l/j",
