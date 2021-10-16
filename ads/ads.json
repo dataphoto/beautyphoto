@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png",
-      "appName": "Filters for Pictures",
+      "appName": "Selfie Camera Filters",
       "description": "The new filters and effects. Get alot of filters like dogs, rabbit, wolf, lips, heart crown...",
-      "package": "com.photo.beauty.plus.filters.pictures",
+      "package": "com.sweet.camera.selfie.filters",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
