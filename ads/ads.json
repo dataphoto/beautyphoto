@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png",
-      "appName": "Squid Game Editor",
+      "appName": "Makeup Camera",
       "description": "The new filters and effects. Get alot of filters like dogs, rabbit, wolf, lips, heart crown...",
-      "package": "com.sweet.camera.selfie.squid.game.photo.editor.automatic.background.changer",
+      "package": "photoBeautyPlus.makeup.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
