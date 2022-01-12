@@ -1,7 +1,7 @@
 [
 	{
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
-      "ads_list": ["fb", "am", "mp"],
+      "ads_list": ["mp", "am", "fb"],
 
       "fb_ba": "CnYPQ2njwDslT430CW9VIxE0dTbBusIlHMfiNWuyfiA=",
       "fb_in": "CnYPQ2njwDslT430CW9VI73lcWwMeq/CXeEWUSXqkEg=",
@@ -75,7 +75,7 @@
 
   {
     "sweet.face.camera.live.filter.selfie": {
-      "ads_list": ["fb", "am"],
+      "ads_list": ["am", "fb"],
       "fb_ba": "OZ/TWdZpG8hHokMYBawThgDRbwK12qLrl4/BRJblRUo=",
       "fb_in": "OZ/TWdZpG8hHokMYBawThpAxjwG/UlZvsgyoiQDYKgw=",
       "fb_home_in": "OZ/TWdZpG8hHokMYBawThgUmZZ0SUClqlIObaCtmBMA=",
