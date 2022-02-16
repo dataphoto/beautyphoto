@@ -1,9 +1,9 @@
 {
   "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
   "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png", 
-  "appName" : "Makeup Camera",
-  "shortDecripsion" : "The new filters and effects. Get alot of filters like dogs, rabbit, wolf, lips, heart crown...",
-  "package" : "photoBeautyPlus.makeup.camera",
+  "appName" : "Collage maker for pictures",
+  "shortDecripsion" : "Just select several photos in your photo lab, Collage Maker instantly remix them into cool photo collage",
+  "package" : "com.sweet.camera.collage",
   "link" : "",
   "actionText" : "VISIT APP"
 }
