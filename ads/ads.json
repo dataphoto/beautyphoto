@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png",
-      "appName": "Collage maker for pictures",
-      "description": "Just select several photos in your photo lab, Collage Maker instantly remix them into cool photo collage",
-      "package": "com.sweet.camera.collage",
+      "appName": "Text On Photo",
+      "description": "Use text on photo right away with a huge stock of wallpapers with large pixel resolution, many different font styles and lots of unique and lovely stickers",
+      "package": "com.sweet.camera.selfie.text.photo.photography",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
