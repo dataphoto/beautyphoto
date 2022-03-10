@@ -107,11 +107,13 @@
     }
   },
   {
-    "beautyroom.angel.photo.editor.old": {
-      "am_ba": "Rn0pSEgDeaQjcI0NNQY3RR9F4uKcU6qQBMUZE3y635Sn3KrB9oUgJWeeOWGG31aD",
-      "am_in": "Rn0pSEgDeaQjcI0NNQY3RdAwPxprT3rXQQc0V2PZvjZ26wfY+rFIr8Gk9KWK30R+",
-      "am_vi": "Rn0pSEgDeaQjcI0NNQY3Re7Q/PA/T2+nKAMmnCK4XZiGVNVoXAtu59S39Xjjoec/",
-      "am_na": "Rn0pSEgDeaQjcI0NNQY3RdFpMPee9Zckjl6RY9qcT4xcQx336G008pBCmp1eYGP9"
+    "com.beauty.photo.editor": {
+      "ads_list": ["am"],
+
+      "am2_ba": "IxON9QCsyZ17q4I8OcUkrjJE3nEmk/zlybta/KBYCk4iQ38eknBpWmRetHg92w9q",
+      "am2_in": "IxON9QCsyZ17q4I8OcUkrnIIJ7FqRuhDs4WJEFRwJ8Bag06YXMs4ODzD8pAxAYUC",
+      "am2_vi": "IxON9QCsyZ17q4I8OcUkrlWxpUiMUF5gcs4w5XPxLySJAC4mGsfXYeE88abC95rN",
+      "am2_na": "IxON9QCsyZ17q4I8OcUkrmdJWYUFWxpDtgyaUGpK6gB0hlR/ugi2C8O38shL3zBo"
     }
   },
   {
@@ -122,6 +124,7 @@
         "Free",
         "Premium"
       ],
+      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"],
       "sticker": [
         {
           "name": "Highlights",
