@@ -1,7 +1,7 @@
 [
 	{
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
-      "ads_list": ["al", "is", "fb", "mp"],
+      "ads_list": ["al", "is", "fb"],
 
       "al_ba": "TxFS1hM+dEYI+JwYCDAXD757YpxQl7VlwZVfDsz97rk=",
       "al_in": "l2Ah9m5/U0wtF2BqiSu7D13IAcIg6wP9SBBDYAzvpPk=",
@@ -13,14 +13,7 @@
       "fb_in": "CnYPQ2njwDslT430CW9VI73lcWwMeq/CXeEWUSXqkEg=",
       "fb_home_in": "CnYPQ2njwDslT430CW9VI73lcWwMeq/CXeEWUSXqkEg=",
       "fb_re": "CnYPQ2njwDslT430CW9VI7kMJqmDPPXBbhvHz5D5NdI=",
-      "fb_na": "CnYPQ2njwDslT430CW9VI7gsWnTTwL0TvmCSgNqzPqs=",
-      
-
-      "mp_ba": "f0m0iIEfksxr/Bh9Sjpopq56Tc9TuDrvlAK9MSmsYD916uSJV4ehUfdYSg+AeaDS",
-      "mp_in": "Tf0XHIod/5dh8oY7v+Fbrvk7MIte2pYuEqHJ+Jh9k0GNcC73cC1jSGUbDSHQOgqk",
-      "mp_re": "Kc25kgiksKKRriFXBqhcF2bE2S4rYhADPPqGzg90ITmAQk1DgSb5XygNEnBEGiQ8",
-      "mp_na": "8IX7CpzvAmnf2TiffPTWKi5rC+T2U10yGxIZbTy7ZdgZWYVAPkh/hf+wWkhStelz",
-      "mp_vi": ""
+      "fb_na": "CnYPQ2njwDslT430CW9VI7gsWnTTwL0TvmCSgNqzPqs="
     }
   },
   {
