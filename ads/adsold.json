@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png", 
-  "appName" : "Text On Photo",
-  "shortDecripsion" : "Use text on photo right away with a huge stock of wallpapers with large pixel resolution, many different font styles and lots of unique and lovely stickers",
-  "package" : "com.sweet.camera.selfie.text.photo.photography",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png", 
+  "appName" : "Neon Horns Devil",
+  "shortDecripsion" : "Neon Horns Devil is a powerful editor that has many amazing effects and filters.",
+  "package" : "frame.art.master.neon.horns.devil.photo.editor",
   "link" : "",
   "actionText" : "VISIT APP"
 }
