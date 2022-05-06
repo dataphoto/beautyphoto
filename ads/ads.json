@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png",
+      "appName": "Sweet Face Camera",
+      "description": "Sweet Face Camera is a powerful editor that has many amazing effects and filters.",
+      "package": "sweet.snap.face.camera.art",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png",
       "appName": "Filters for Selfies",
       "description": "Filter for Selfies. Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
       "package": "filters.selfies.foto.art",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png",
-      "appName": "Neon Horns Devil",
-      "description": "Neon Horns Devil is a powerful editor that has many amazing effects and filters.",
-      "package": "frame.art.master.neon.horns.devil.photo.editor",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"

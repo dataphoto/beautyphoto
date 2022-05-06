@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png", 
-  "appName" : "Filters for Selfies",
-  "shortDecripsion" : "Filter for Selfies. Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
-  "package" : "filters.selfies.foto.art",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png", 
+  "appName" : "Sweet Face Camera",
+  "shortDecripsion" : "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
+  "package" : "sweet.snap.face.camera.art",
   "link" : "",
   "actionText" : "VISIT APP"
 }
