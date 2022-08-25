@@ -1,7 +1,9 @@
 [
 	{
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
-      "ads_list": ["am", "fb"],
+      "ads_list": ["al", "am", "fb"],
+
+      "interval": 300000,
 
        "am2_in": "+so+zcxl13By1/KSMxAECQsa9PhwSqZn06i/HNEJsDpYiTeWS9lpp6rt1kQoE++p",
        "am2_home_in": "+so+zcxl13By1/KSMxAECQsa9PhwSqZn06i/HNEJsDpYiTeWS9lpp6rt1kQoE++p",
