@@ -1,7 +1,7 @@
 [
 	{
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
-      "ads_list": ["al", "is", "am", "fb"],
+      "ads_list": ["al", "is", "am"],
 
       "interval": 180000,
 
@@ -15,13 +15,7 @@
       "al_in": "l2Ah9m5/U0wtF2BqiSu7D13IAcIg6wP9SBBDYAzvpPk=",
       "al_re": "KKQMt06GJk8R6AFU0jsQlXAPZhoF0FspyUMzFrGjXqA=",
 
-      "is_id": "ND7pwqSqyEpw04WikyoSOA==",
-
-      "fb_ba": "CnYPQ2njwDslT430CW9VIxE0dTbBusIlHMfiNWuyfiA=",
-      "fb_in": "CnYPQ2njwDslT430CW9VI73lcWwMeq/CXeEWUSXqkEg=",
-      "fb_home_in": "CnYPQ2njwDslT430CW9VI73lcWwMeq/CXeEWUSXqkEg=",
-      "fb_re": "CnYPQ2njwDslT430CW9VI7kMJqmDPPXBbhvHz5D5NdI=",
-      "fb_na": "CnYPQ2njwDslT430CW9VI7gsWnTTwL0TvmCSgNqzPqs="
+      "is_id": "ND7pwqSqyEpw04WikyoSOA=="
     }
   },
   {
