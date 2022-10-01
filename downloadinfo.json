@@ -72,17 +72,12 @@
 
   {
     "sweet.face.camera.live.filter.selfie": {
-      "ads_list": ["am", "fb"],
+      "ads_list": ["fb"],
       "fb_ba": "OZ/TWdZpG8hHokMYBawThgDRbwK12qLrl4/BRJblRUo=",
       "fb_in": "OZ/TWdZpG8hHokMYBawThpAxjwG/UlZvsgyoiQDYKgw=",
       "fb_home_in": "OZ/TWdZpG8hHokMYBawThgUmZZ0SUClqlIObaCtmBMA=",
       "fb_re": "OZ/TWdZpG8hHokMYBawThrLDm3N98YyKNk84xIlDvGo=",
-      "fb_na": "OZ/TWdZpG8hHokMYBawThlbSO7rMNO9oPXQGtolFf+s=",
-
-      "am_ba": "",
-      "am_in": "QZleFY3OWqLQUg45g/7zLJffYcedZbSrRylplFCr+IHZtA0p3yP5CQvjqD2cEtiG",
-      "am_vi": "",
-      "am_na": "QZleFY3OWqLQUg45g/7zLLvTCWyQKbVL0y+8RJox95bosb0/k7+aZ1kZovURt7jC"
+      "fb_na": "OZ/TWdZpG8hHokMYBawThlbSO7rMNO9oPXQGtolFf+s="
     }
   },
   {
