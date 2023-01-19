@@ -82,7 +82,12 @@
 
   {
     "sweet.face.camera.live.filter.selfie": {
-      "ads_list": ["fb"],
+      "ads_list": ["am", "fb"],
+
+      "interval": 60000,
+
+      "am_in": "ZYtFm5BfIRsWCJ/eDpoVff3Z1mb4qAhRx3KbSndsJ8mKKHGwMGHB5PMI3ciLpLdw",
+
       "fb_ba": "OZ/TWdZpG8hHokMYBawThgDRbwK12qLrl4/BRJblRUo=",
       "fb_in": "OZ/TWdZpG8hHokMYBawThpAxjwG/UlZvsgyoiQDYKgw=",
       "fb_home_in": "OZ/TWdZpG8hHokMYBawThgUmZZ0SUClqlIObaCtmBMA=",
