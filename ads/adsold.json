@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png", 
-  "appName" : "Makeup Camera",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon1.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic1.png", 
+  "appName" : "Live Face Sticker",
   "shortDecripsion" : "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
-  "package" : "photoBeautyPlus.makeup.camera",
+  "package" : "mobility.studio.live.face.sticker.sweet.camera",
   "link" : "",
   "actionText" : "VISIT APP"
 }
