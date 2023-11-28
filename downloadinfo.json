@@ -3,7 +3,26 @@
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
       "ads_list": ["am", "al"],
 
-      "interval": 180000,
+      "interval": 60000,
+
+      "am2_in": "uUXkXJqMuoepzEIo8zzLXef4G/yVqTsr//3agxmWr9Uye7anjvLCWVsX2dg1kn0T",
+       "am2_home_in": "uUXkXJqMuoepzEIo8zzLXef4G/yVqTsr//3agxmWr9Uye7anjvLCWVsX2dg1kn0T",
+
+       "am_in" : "uUXkXJqMuoepzEIo8zzLXef4G/yVqTsr//3agxmWr9Uye7anjvLCWVsX2dg1kn0T",
+       "am_home_in": "uUXkXJqMuoepzEIo8zzLXef4G/yVqTsr//3agxmWr9Uye7anjvLCWVsX2dg1kn0T",
+
+      "al_ba": "TxFS1hM+dEYI+JwYCDAXD757YpxQl7VlwZVfDsz97rk=",
+      "al_in": "l2Ah9m5/U0wtF2BqiSu7D13IAcIg6wP9SBBDYAzvpPk=",
+      "al_re": "KKQMt06GJk8R6AFU0jsQlXAPZhoF0FspyUMzFrGjXqA=",
+
+      "is_id": "ND7pwqSqyEpw04WikyoSOA=="
+    }
+  },
+  {
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies.bk": {
+      "ads_list": ["am", "al"],
+
+      "interval": 60000,
 
       "am2_in": "+so+zcxl13By1/KSMxAECQsa9PhwSqZn06i/HNEJsDpYiTeWS9lpp6rt1kQoE++p",
        "am2_home_in": "+so+zcxl13By1/KSMxAECQsa9PhwSqZn06i/HNEJsDpYiTeWS9lpp6rt1kQoE++p",
