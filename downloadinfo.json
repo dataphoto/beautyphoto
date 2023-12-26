@@ -1,7 +1,7 @@
 [
   {
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
-      "ads_list": ["am", "al"],
+      "ads_list": ["al", "am"],
 
       "interval": 60000,
 
@@ -19,51 +19,21 @@
     }
   },
   {
-    "beautyroom.angel.photo.editor.bk": {
+    "beautyroom.angel.photo.editor": {
       "ads_list": ["am1"],
 
       "am_ba": "",
       "am_in": "",
-      "am_vi": "",
-      "am_na": ""
-    }
-  },
-  {
-    "beautyroom.angel.photo.editor": {
-      "ads_list": ["am"],
-
-      "am_ba": "",
-      "am_in": "AXDeaVIdSX7ymtxa4JHV+KnW1OJMNabnN4Jbh1xyqxbtpbqL2K5gjLdsosuMhKYO",
-      "am_vi": "",
-      "am_na": ""
-    }
-  },
-  {
-    "beautyroom.beauty.body.photoeditor": {
-      "ads_list": ["am"],
-
-      "am_ba": "",
-      "am_in": "AXDeaVIdSX7ymtxa4JHV+MvsOZBgBku/npvgo+o74f56T+N+qY0tyL8IrxTvS28G",
       "am_vi": "",
       "am_na": ""
     }
   },
 	{
-    "rainbow.camera.effect.photo.editor.bk": {
+    "rainbow.camera.effect.photo.editor": {
       "ads_list": ["am1"],
 
       "am_ba": "",
       "am_in": "",
-      "am_vi": "",
-      "am_na": ""
-    }
-  },
-  {
-    "rainbow.camera.effect.photo.editor": {
-      "ads_list": ["am"],
-
-      "am_ba": "",
-      "am_in": "AXDeaVIdSX7ymtxa4JHV+DVK0/AkzjKbJ4ib+59d2DAU4P0gQoGqoTRDb/9bvGkC",
       "am_vi": "",
       "am_na": ""
     }
@@ -101,26 +71,6 @@
   },
   {
     "sweet.face.camera.live.filter.selfie": {
-      "ads_list": ["am", "fb"],
-
-      "interval": 60000,
-
-      "am_ba": "AXDeaVIdSX7ymtxa4JHV+HBwgSWXiLbZrNVbCeW6RNjNnnVthk0slTcle2K4pdlx",
-      "am_in": "AXDeaVIdSX7ymtxa4JHV+Kytq0r5dirNqz2CUdSjkCYU6Cycvqq0DBJ4ssCCBil9",
-      "am_na": "AXDeaVIdSX7ymtxa4JHV+Ign3LSo8H6hFQBzN3ySrXNg7ty/JfqkMoHu092jvNKl",
-
-      "am2_in": "AXDeaVIdSX7ymtxa4JHV+Kytq0r5dirNqz2CUdSjkCYU6Cycvqq0DBJ4ssCCBil9",
-      "am2_home_in": "AXDeaVIdSX7ymtxa4JHV+Kytq0r5dirNqz2CUdSjkCYU6Cycvqq0DBJ4ssCCBil9",
-
-      "fb_ba": "OZ/TWdZpG8hHokMYBawThgDRbwK12qLrl4/BRJblRUo=",
-      "fb_in": "OZ/TWdZpG8hHokMYBawThpAxjwG/UlZvsgyoiQDYKgw=",
-      "fb_home_in": "OZ/TWdZpG8hHokMYBawThgUmZZ0SUClqlIObaCtmBMA=",
-      "fb_re": "OZ/TWdZpG8hHokMYBawThrLDm3N98YyKNk84xIlDvGo=",
-      "fb_na": "OZ/TWdZpG8hHokMYBawThlbSO7rMNO9oPXQGtolFf+s="
-    }
-  },
-  {
-    "sweet.face.camera.live.filter.selfie.bk": {
       "ads_list": ["am", "fb"],
 
       "interval": 60000,
