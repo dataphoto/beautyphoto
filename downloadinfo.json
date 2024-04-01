@@ -1,6 +1,6 @@
 [
   {
-    "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies.bk": {
       "ads_list": ["al", "am"],
 
       "interval": 60000,
@@ -10,6 +10,27 @@
 
        "am_in" : "+so+zcxl13By1/KSMxAECQsa9PhwSqZn06i/HNEJsDpYiTeWS9lpp6rt1kQoE++p",
        "am_home_in": "+so+zcxl13By1/KSMxAECQsa9PhwSqZn06i/HNEJsDpYiTeWS9lpp6rt1kQoE++p",
+
+      "al_ba": "TxFS1hM+dEYI+JwYCDAXD757YpxQl7VlwZVfDsz97rk=",
+      "al_in": "l2Ah9m5/U0wtF2BqiSu7D13IAcIg6wP9SBBDYAzvpPk=",
+      "al_re": "KKQMt06GJk8R6AFU0jsQlXAPZhoF0FspyUMzFrGjXqA=",
+
+      "is_id": "ND7pwqSqyEpw04WikyoSOA=="
+    }
+  },
+  {
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
+      "ads_list": ["am", "al"],
+
+      "interval": 60000,
+
+      "app_id": "ca-app-pub-6037027727179232~5104162959",
+
+      "am2_in": "HF5RXVdtlof30kcEGKbTvCwZ3b0rW31Vh+K/eJBfnhO+XIBYTBmsA3PRj11bKxT8",
+       "am2_home_in": "HF5RXVdtlof30kcEGKbTvCwZ3b0rW31Vh+K/eJBfnhO+XIBYTBmsA3PRj11bKxT8",
+
+       "am_in" : "HF5RXVdtlof30kcEGKbTvCwZ3b0rW31Vh+K/eJBfnhO+XIBYTBmsA3PRj11bKxT8",
+       "am_home_in": "HF5RXVdtlof30kcEGKbTvCwZ3b0rW31Vh+K/eJBfnhO+XIBYTBmsA3PRj11bKxT8",
 
       "al_ba": "TxFS1hM+dEYI+JwYCDAXD757YpxQl7VlwZVfDsz97rk=",
       "al_in": "l2Ah9m5/U0wtF2BqiSu7D13IAcIg6wP9SBBDYAzvpPk=",
