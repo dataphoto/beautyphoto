@@ -1,6 +1,26 @@
 [
   {
     "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
+      "ads_list": ["am", "al"],
+
+      "interval": 45000,
+
+      "am2_in": "V0MsyRqWr8bEIEeAqeFEkqQRF/cgwI6MhCBVmNqJ7E+M0hjotytZjUAvhoZzCgsN",
+       "am2_home_in": "V0MsyRqWr8bEIEeAqeFEkqQRF/cgwI6MhCBVmNqJ7E+M0hjotytZjUAvhoZzCgsN",
+
+       "am_in" : "V0MsyRqWr8bEIEeAqeFEkqQRF/cgwI6MhCBVmNqJ7E+M0hjotytZjUAvhoZzCgsN",
+       "am_home_in": "V0MsyRqWr8bEIEeAqeFEkqQRF/cgwI6MhCBVmNqJ7E+M0hjotytZjUAvhoZzCgsN",
+
+       "app_id": "ca-app-pub-1152347614097659~5488249259",
+
+      "al_ba": "TxFS1hM+dEYI+JwYCDAXD757YpxQl7VlwZVfDsz97rk=",
+      "al_in": "l2Ah9m5/U0wtF2BqiSu7D13IAcIg6wP9SBBDYAzvpPk=",
+      "al_re": "KKQMt06GJk8R6AFU0jsQlXAPZhoF0FspyUMzFrGjXqA=",
+
+      "is_id": "ND7pwqSqyEpw04WikyoSOA=="
+    }
+  },{
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies.bk": {
       "ads_list": ["al", "am"],
 
       "interval": 60000,
@@ -18,6 +38,7 @@
       "is_id": "ND7pwqSqyEpw04WikyoSOA=="
     }
   },
+
   {
     "beautyroom.angel.photo.editor": {
       "ads_list": ["am1"],
