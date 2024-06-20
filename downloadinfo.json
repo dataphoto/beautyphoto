@@ -1,6 +1,6 @@
 [
   {
-    "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies.primeh": {
       "ads_list": ["am", "al"],
 
       "interval": 45000,
@@ -20,7 +20,7 @@
       "is_id": "ND7pwqSqyEpw04WikyoSOA=="
     }
   },{
-    "beautyrooom.filtersforselfie.sweet.face.camera.selfies.bk": {
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
       "ads_list": ["al", "am"],
 
       "interval": 60000,
