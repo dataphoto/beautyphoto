@@ -1,17 +1,17 @@
 [
   {
-    "beautyrooom.filtersforselfie.sweet.face.camera.selfies.uk": {
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
       "ads_list": ["am", "al"],
 
       "interval": 45000,
 
-      "am2_in": "gYBHIS6qmmIHxg0cB7Zu5GYx97MVWOYDQdKuOjHNt8zu99GSP0n3QIRYIa+1Yecm",
-       "am2_home_in": "gYBHIS6qmmIHxg0cB7Zu5GYx97MVWOYDQdKuOjHNt8zu99GSP0n3QIRYIa+1Yecm",
+      "am2_in": "8PqCwML9bppWTkXaMq9eFvE/gXPvKye0xgPqHyVl5j0pVW6xxBSMuJ7FKQ3N7Ejw",
+       "am2_home_in": "8PqCwML9bppWTkXaMq9eFvE/gXPvKye0xgPqHyVl5j0pVW6xxBSMuJ7FKQ3N7Ejw",
 
-       "am_in" : "gYBHIS6qmmIHxg0cB7Zu5GYx97MVWOYDQdKuOjHNt8zu99GSP0n3QIRYIa+1Yecm",
-       "am_home_in": "gYBHIS6qmmIHxg0cB7Zu5GYx97MVWOYDQdKuOjHNt8zu99GSP0n3QIRYIa+1Yecm",
+       "am_in" : "8PqCwML9bppWTkXaMq9eFvE/gXPvKye0xgPqHyVl5j0pVW6xxBSMuJ7FKQ3N7Ejw",
+       "am_home_in": "8PqCwML9bppWTkXaMq9eFvE/gXPvKye0xgPqHyVl5j0pVW6xxBSMuJ7FKQ3N7Ejw",
 
-       "app_id": "ca-app-pub-7208380511453512~2861975517",
+       "app_id": "ca-app-pub-5418093103462012~4702381232",
 
       "al_ba": "TxFS1hM+dEYI+JwYCDAXD757YpxQl7VlwZVfDsz97rk=",
       "al_in": "l2Ah9m5/U0wtF2BqiSu7D13IAcIg6wP9SBBDYAzvpPk=",
@@ -20,7 +20,7 @@
       "is_id": "ND7pwqSqyEpw04WikyoSOA=="
     }
   },{
-    "beautyrooom.filtersforselfie.sweet.face.camera.selfies": {
+    "beautyrooom.filtersforselfie.sweet.face.camera.selfies.bk": {
       "ads_list": ["al", "am"],
 
       "interval": 60000,
